@@ -1,3 +1,21 @@
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-movie-app)
+  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-movie-app?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-movie-app?style=social)
+ 
+  <br />
+
+  <h2 align="center">React Native Movie App</h2>
+
+In this project, I have created a Movie App, The project is built using Expo, React Native, React Native Navigation, NativeWind, Axios, and TMDB Movie API.
+
+</div>
+
+### Demo Screenshot
+
+![React Native Movie App Demo](./readme-images/React-Native-Movie-App.png "Desktop Demo")
+
 ## Get Started
 
 install dev dependencies
@@ -6,7 +24,7 @@ install dev dependencies
 
 ## Then
 
-Run The app
+Run The App
 
 ### `npm start`
 
